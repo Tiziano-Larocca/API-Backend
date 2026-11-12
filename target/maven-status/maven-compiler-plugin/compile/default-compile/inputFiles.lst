@@ -1,0 +1,10 @@
+d:\Tareas\7mo 3ra\Proyecto, diseño e implementación de sistemas computacionales\API-REST JavaScript\backend\students-api\src\main\java\com\example\studentsapi\config\CorsConfig.java
+d:\Tareas\7mo 3ra\Proyecto, diseño e implementación de sistemas computacionales\API-REST JavaScript\backend\students-api\src\main\java\com\example\studentsapi\controller\StudentController.java
+d:\Tareas\7mo 3ra\Proyecto, diseño e implementación de sistemas computacionales\API-REST JavaScript\backend\students-api\src\main\java\com\example\studentsapi\dto\StudentDto.java
+d:\Tareas\7mo 3ra\Proyecto, diseño e implementación de sistemas computacionales\API-REST JavaScript\backend\students-api\src\main\java\com\example\studentsapi\entity\Student.java
+d:\Tareas\7mo 3ra\Proyecto, diseño e implementación de sistemas computacionales\API-REST JavaScript\backend\students-api\src\main\java\com\example\studentsapi\exception\GlobalExceptionHandler.java
+d:\Tareas\7mo 3ra\Proyecto, diseño e implementación de sistemas computacionales\API-REST JavaScript\backend\students-api\src\main\java\com\example\studentsapi\exception\ResourceNotFoundException.java
+d:\Tareas\7mo 3ra\Proyecto, diseño e implementación de sistemas computacionales\API-REST JavaScript\backend\students-api\src\main\java\com\example\studentsapi\repository\StudentRepository.java
+d:\Tareas\7mo 3ra\Proyecto, diseño e implementación de sistemas computacionales\API-REST JavaScript\backend\students-api\src\main\java\com\example\studentsapi\service\StudentService.java
+d:\Tareas\7mo 3ra\Proyecto, diseño e implementación de sistemas computacionales\API-REST JavaScript\backend\students-api\src\main\java\com\example\studentsapi\service\StudentServiceImpl.java
+d:\Tareas\7mo 3ra\Proyecto, diseño e implementación de sistemas computacionales\API-REST JavaScript\backend\students-api\src\main\java\com\example\studentsapi\StudentsApiApplication.java
