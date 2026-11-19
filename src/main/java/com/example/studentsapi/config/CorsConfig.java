@@ -10,7 +10,8 @@ public class CorsConfig implements WebMvcConfigurer {
     @Override
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/api/**")
-            .allowedOrigins("https://api-frontend-jesu.onrender.com/")
+            .allowedOrigins("https://api-frontend-jesu.onrender.com")
             .allowedMethods("GET", "POST", "PUT", "DELETE");
+            .allowedHeaders("*");
     }
 }
