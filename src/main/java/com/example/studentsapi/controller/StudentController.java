@@ -19,6 +19,7 @@ import com.example.studentsapi.service.StudentService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 
+@CrossOrigin(origins = "https://api-frontend-jesu.onrender.com")
 @RestController
 @RequestMapping("/api/students")
 @RequiredArgsConstructor
